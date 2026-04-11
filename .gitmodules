@@ -1,0 +1,3 @@
+[submodule "skills/gh-skills"]
+	path = skills/gh-skills
+	url = git@github.com:carbonscott/gh-skills.git

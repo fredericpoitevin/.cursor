@@ -1,0 +1,15 @@
+# Minimal public sync — only user skills, rules, and slash commands.
+# Everything else under ~/.cursor stays local.
+
+*
+
+!.gitignore
+
+!skills/
+!skills/**
+
+!rules/
+!rules/**
+
+!commands/
+!commands/**
