@@ -13,3 +13,7 @@
 
 !commands/
 !commands/**
+
+# Repository documentation (tracked for GitHub)
+!README.md
+
